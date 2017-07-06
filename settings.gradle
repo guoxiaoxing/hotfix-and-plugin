@@ -1,1 +1,1 @@
-include ':demo', ':okhttp'
+include ':sophix'
