@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo/app.iml" filepath="$PROJECT_DIR$/demo/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sophix/demo.iml" filepath="$PROJECT_DIR$/sophix/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/hotfix-and-plugin.iml" filepath="$PROJECT_DIR$/hotfix-and-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp-plus.iml" filepath="$PROJECT_DIR$/okhttp-plus.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sophix/demo.iml" filepath="$PROJECT_DIR$/sophix/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sophix/sophix.iml" filepath="$PROJECT_DIR$/sophix/sophix.iml" />
     </modules>
   </component>
 </project>
